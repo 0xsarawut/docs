@@ -1,4 +1,4 @@
----
+https://github.com/github/docs.git---
 title: Best practices for GitHub Docs
 shortTitle: Best practices for GitHub Docs
 intro: Follow these best practices to create documentation that's user-friendly and easy to understand.
